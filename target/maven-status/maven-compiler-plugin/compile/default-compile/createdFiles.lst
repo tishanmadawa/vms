@@ -3,6 +3,7 @@ com\qfix\vms\service\impl\VehicleServiceImpl.class
 com\qfix\vms\controller\DriverController.class
 com\qfix\vms\controller\IndexController.class
 com\qfix\vms\service\VehicleService.class
+com\qfix\vms\service\DriverService.class
 com\qfix\vms\controller\VehicleController.class
 com\qfix\vms\config\AppInitializer.class
 com\qfix\vms\dao\RequestDao.class
@@ -17,12 +18,15 @@ com\qfix\vms\service\UserService.class
 com\qfix\vms\service\impl\RequestServiceImpl.class
 com\qfix\vms\config\AppConfig.class
 com\qfix\vms\dao\impl\VehicleDaoImpl.class
+com\qfix\vms\dao\DriverDao.class
 com\qfix\vms\controller\UserController.class
 com\qfix\vms\test\Test.class
+com\qfix\vms\service\impl\DriverServiceImpl.class
 com\qfix\vms\dao\UserDao.class
 com\qfix\vms\dao\impl\UserDaoImpl.class
 com\qfix\vms\model\Vehicle.class
 com\qfix\vms\model\Request.class
 com\qfix\vms\controller\ReportController.class
 com\qfix\vms\dao\AbstractDao.class
+com\qfix\vms\dao\impl\DriverDaoImpl.class
 com\qfix\vms\dao\VehicleDao.class
